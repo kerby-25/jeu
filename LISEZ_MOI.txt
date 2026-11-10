@@ -1,0 +1,33 @@
+TETRIS NEXUS — VERSION 1.2
+===========================
+
+LANCEMENT
+- Windows : double-cliquez sur Lancer_Tetris_Nexus.bat ou ouvrez TetrisNexus.html avec Chrome ou Edge.
+- Android : ouvrez TetrisNexus.html dans Chrome, ou hébergez le fichier sur un site web.
+- iPhone/iPad : ouvrez le jeu dans Safari depuis une adresse web. Pour une utilisation régulière, ajoutez la page à l’écran d’accueil.
+
+COMMANDES SUR TÉLÉPHONE
+- GAUCHE / DROITE : déplacer la pièce.
+- DESCENDRE : accélérer la descente tant que le bouton reste appuyé.
+- TOURNER : rotation horaire.
+- ROTATION − : rotation antihoraire.
+- CHUTE RAPIDE : déposer immédiatement la pièce.
+- RÉSERVE : garder ou échanger une pièce.
+- PAUSE : reprendre, recommencer ou quitter la partie.
+- En campagne et en survie, les boutons Pulse, Stase, Laser et Bouclier activent les capacités correspondantes lorsque l'énergie est suffisante.
+
+COMMANDES AU CLAVIER
+- Flèches gauche/droite : déplacer.
+- Flèche bas : descendre.
+- Flèche haut ou X : tourner.
+- Z : rotation inverse.
+- Espace : chute rapide.
+- C : réserve.
+- 1, 2, 3, 4 : capacités.
+- Échap ou P : pause.
+
+AUDIO
+Les navigateurs mobiles peuvent exiger une première interaction avec la page avant d'autoriser le son. Touchez le jeu, puis activez la musique dans les options.
+
+À PROPOS
+Cette édition est un jeu HTML5 autonome. Le fichier .bat lance la page HTML dans le navigateur ; ce n'est pas un exécutable Windows natif (.exe).
